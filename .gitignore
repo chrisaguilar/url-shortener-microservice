@@ -1,2 +1,2 @@
-/node_modules
-/shortened-urls.sqlite
+node_modules/
+url-shortener.sqlite
